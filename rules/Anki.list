@@ -1,0 +1,4 @@
+# > Anki
+USER-AGENT,*anki*
+USER-AGENT,AnkiDroid*
+DOMAIN-SUFFIX,ankiweb.net
