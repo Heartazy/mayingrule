@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,ankiweb.net
 DOMAIN,maxcdn.bootstrapcdn.com
 DOMAIN,cdnjs.cloudflare.com
 DOMAIN,sessions.bugsnag.com
+DOMAIN,unpkg.com
