@@ -1,0 +1,6 @@
+# > TeamFight Tactics
+USER-AGENT,*riotgames*
+USER-AGENT,teamfighttactics*
+DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,leagueoflegends.com
