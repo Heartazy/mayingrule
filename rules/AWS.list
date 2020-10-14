@@ -1,4 +1,5 @@
 ## > Amazon
+DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,aboutamazon.cn
 DOMAIN-SUFFIX,aboutamazon.co.uk
@@ -16,6 +17,8 @@ DOMAIN-SUFFIX,alexa.com
 DOMAIN-SUFFIX,alexafund.cn
 DOMAIN-SUFFIX,alexafund.com.cn
 DOMAIN-SUFFIX,amaaozn.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,amazon-fashions.com
@@ -90,10 +93,6 @@ DOMAIN-SUFFIX,ueberamazon.de
 DOMAIN-SUFFIX,yamaxun.cn
 DOMAIN-SUFFIX,yamaxun.com
 DOMAIN-SUFFIX,z.cn
-DOMAIN,d1b183sg0nvnuh.cloudfront.net
-DOMAIN,d1c37gjwa26taa.cloudfront.net
-DOMAIN,c33hcgiwev3.cloudfront.net
-DOMAIN,rhr7kgmtrq1v.cloudfront.net
 IP-CIDR,13.32.0.0/16,no-resolve
 IP-CIDR,13.33.0.0/16,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
