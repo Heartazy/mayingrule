@@ -1,5 +1,6 @@
 ## > Amazon
 DOMAIN,images-cn.ssl-images-amazon.com,Amazon
+DOMAIN-KEYWORD,ssl-images-amazon,Amazon
 DOMAIN-SUFFIX,a2z.com,Amazon
 DOMAIN-SUFFIX,aboutamazon.cn,Amazon
 DOMAIN-SUFFIX,aboutamazon.co.uk,Amazon
@@ -88,7 +89,6 @@ DOMAIN-SUFFIX,primeday.cn,Amazon
 DOMAIN-SUFFIX,primeday.com.cn,Amazon
 DOMAIN-SUFFIX,primeday.info,Amazon
 DOMAIN-SUFFIX,siege-amazon.com,Amazon
-DOMAIN-SUFFIX,ssl-images-amazon.com,Amazon
 DOMAIN-SUFFIX,ueberamazon.de,Amazon
 DOMAIN-SUFFIX,yamaxun.cn,Amazon
 DOMAIN-SUFFIX,yamaxun.com,Amazon
