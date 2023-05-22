@@ -1,3 +1,4 @@
 IP-CIDR,172.28.228.2/24
-DOMAIN-SUFFIX,cqust.edu.cn
+IP-CIDR,123.123.123.123/24
+DOMAIN,aaa.cqust.edu.cn
 DOMAIN-KEYWORD,cqust
